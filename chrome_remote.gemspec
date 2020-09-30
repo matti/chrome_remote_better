@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["luismi@lmcavalle.com", "matti.paksula@iki.fi"]
 
   spec.summary       = "ChromeRemote is a client implementation of the Chrome DevTools Protocol in Ruby"
-  spec.homepage      = "https://github.com/cavalle/chrome_remote"
+  spec.homepage      = "https://github.com/matti/chrome_remote_better"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
