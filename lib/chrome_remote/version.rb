@@ -1,3 +1,3 @@
 module ChromeRemote
-  VERSION = "0.3.0"
+  VERSION = "9001.3.0"
 end
